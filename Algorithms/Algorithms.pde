@@ -1,5 +1,5 @@
 //*** Michael Snow - Code for activity 1 - Algorithms ***//
-// the following code uses a webcam to re-create the artwork "Nine Polaroid Portraits of a Mirror", 1967 by Michael Snow
+// the following code uses a webcam to re-create the process behind the artwork "Authorization", 1969 by Michael Snow
 
 // using the Processing video library to access the computer webcam 
 import processing.video.*;
