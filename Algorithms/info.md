@@ -1,4 +1,4 @@
-#Activity 1 - Algorithms
+# Activity 1 - Algorithms
 
 This activity is designed to accompany the Art Canada Institute Teacher Resource Guide titled "Understanding Computer Science Through the Art of Michael Snow".
 
