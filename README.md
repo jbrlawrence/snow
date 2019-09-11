@@ -6,4 +6,4 @@ In this directory you will find two folders. The first "Algorithms" is intended 
 
 In the second directory "Loops" contains resources to support the second activity of the guide. This contains an example of how a complex abstract work can be created using simple shapes, loops and randomness, inspired by the work of Micheal Snow.
 
-Click "Download" to download a zip file of the entire directory. When you uncompress this file you will be able access the folders and open the ".pde" files using the Processing java environment. To download this free programming environment please visit https://processing.org.
+Click "Clone or Download" to download a zip file of the entire directory. When you uncompress this file you will be able access the folders and open the ".pde" files using the Processing java environment. To download this free programming environment please visit https://processing.org.
